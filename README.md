@@ -1,2 +1,1 @@
-# .github
-gitFOOD
+# gitFOOD
